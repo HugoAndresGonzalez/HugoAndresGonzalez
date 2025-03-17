@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Hugo Gonzalez</h1>
+<h1 align="center">Hi 👋, I'm Hugo Andrés Gonzalez Delgado</h1>
 <h3 align="center">A passionate backend and frontend developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugoandresgonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="hugoandresgonzalez" /> </p>
